@@ -19,4 +19,4 @@ This Power BI project visualizes Amazon Prime content data, including:
 
 ## ❗ Note
 Live public sharing is restricted by Power BI tenant settings, so the dashboard is available as PDF and PBIX only.
-# Amazon_Prime_Dashboard
+
